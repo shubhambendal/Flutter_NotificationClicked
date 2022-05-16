@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747311594444",
+    "project_id": "customhandlingflutter",
+    "storage_bucket": "customhandlingflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747311594444:android:3044e43b42aa024fbefb69",
+        "android_client_info": {
+          "package_name": "com.example.jideshtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747311594444-qqgqq68ovgd0q7lr43j4faq5pb15b1o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzNk-mXqQeYmjr-cZ4u_6ui46MP3URNC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747311594444-qqgqq68ovgd0q7lr43j4faq5pb15b1o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
